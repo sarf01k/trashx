@@ -50,3 +50,7 @@ proceed to delete files? [y / n]: y
 
 🗑️ Files deleted successfully.
 ```
+
+## License
+
+**trashx** is open-source software licensed under the [MIT License](https://github.com/sarf01k/trashx/blob/main/LICENSE). You are free to use, modify, and distribute this tool according to the terms of the license.
