@@ -5,6 +5,10 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackAsTool>true</PackAsTool>
+    <PackageId>trashx</PackageId>
+    <ToolCommandName>trashx</ToolCommandName>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
